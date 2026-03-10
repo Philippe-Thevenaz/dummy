@@ -9,3 +9,9 @@ dependencies:
   - scipy
   - sympy
   - matplotlib
+  - ipywidgets
+  - math
+  - threading
+  - time
+  - IPython
+  - fractions
