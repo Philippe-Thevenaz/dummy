@@ -8,6 +8,5 @@ dependencies:
   - numpy
   - scipy
   - sympy
-  - matplotlib
   - math
   - fractions
